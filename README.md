@@ -46,7 +46,7 @@ Created a "Data Analysis" sheet to summarize all the pivot table Data for a new 
 
 Below is a snippet of the Data Analysis Sheet
 
-![Data Analysis](dataanalysis pic link)
+![Data Analysis](https://github.com/pragatigupta7/Road-Accident-Dashboard/blob/main/Dataanlysis%20image.png)
 
 ## Data Visualization
 
