@@ -1,5 +1,5 @@
 # ⚠️🚑 Road Accident Dashboard
-![Excel](dashboardimage link)
+![Excel](https://github.com/pragatigupta7/Road-Accident-Dashboard/blob/main/Dashboardimage.png)
 
 ## Project Description
 
@@ -54,7 +54,7 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 
 Below is a snippet of the final dashboard in Excel.
 
-![Road Accident Dashboard](dashboardpic link)
+![Road Accident Dashboard](https://github.com/pragatigupta7/Road-Accident-Dashboard/blob/main/Dashboardimage.png)
 
 
 ## Key Insights
